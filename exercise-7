@@ -1,0 +1,24 @@
+TUGAS 1
+
+SIMPAN "angka pertama"
+SIMPAN "angka kedua"
+HITUNG "angka pertama" dikali "angka kedua"
+SIMPAN hasil perhitungan sebelumnya
+TAMPILKAN hasil hitungan
+
+TUGAS 2
+
+SIMPAN "kata"
+IF "kata" = "Saya Belajar Javascript !"
+    TULISKAN "Pasti bisa !"
+
+
+TUGAS 3
+
+SIMPAN "angka"
+SIMPAN i = 1
+
+ULANGI i sampai "angka"
+    IF "angka" modulus 3 = 0
+        TAMPILKAN "angka"
+    
