@@ -1,6 +1,6 @@
-var tanggal = ''; 
-var bulan   = ''; 
-var tahun   = '';
+var tanggal = 19; 
+var bulan   = 09; 
+var tahun   = 1996;
 
 switch (bulan) {
     case 1:     { console.log(tanggal + ' Januari ' + tahun); break;}
