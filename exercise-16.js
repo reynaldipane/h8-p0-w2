@@ -1,3 +1,5 @@
+//Quiz Trivia
+
 function kalkulasiScore(jawabanUser, jawabanSoal) {
     counter = 0;
     for (var i=0;i<jawabanSoal.length;i++) {
