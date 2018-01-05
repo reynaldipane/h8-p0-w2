@@ -1,3 +1,5 @@
+//Quiz Trivia
+
 //Pseudocode untuk function kalkulasiScore
 
 TERIMA array "jawabanSoal"
