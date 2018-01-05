@@ -6,12 +6,12 @@ TERIMA array "jawabanUser"
 SIMPAN counter = 1
 SIMPAN i = 0
 
-ULANGI i sampai panjang array "jawabanSoal"
-    IF jawabanSoal ke-i = jawabanUser ke-i
-        counter = counter + 1
+    ULANGI i sampai panjang array "jawabanSoal"
+        IF jawabanSoal ke-i = jawabanUser ke-i
+            counter = counter + 1
     
-    HITUNG skorAkhir   = counter / panjang array "jawabanSoal" * 100
-    SIMPAN skorAkhr
+        HITUNG skorAkhir   = counter / panjang array "jawabanSoal" * 100
+        SIMPAN skorAkhr
 
 KEMBALIKAN skorAkhir
 
